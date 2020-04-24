@@ -3,12 +3,12 @@
 <img src="http://velameweb.com.br/git/config/images/monitor-sistema-with-margin.png" align="left" />
 
 
-<h2>Telefônica Processum <em>(Sistema - 2019)</em></h2>
+<h2>Shopping Paralela <em>(Sistema - 2012)</em></h2>
 
-<p>Projeto do sistema jurídico da Telefônica-Vivo, desenvolvido pela Indra Company</p>
+<p>Projeto do sistema de controle de receitas dos lojistas do Shopping Paralela</p>
 
 <p>
-  <a href="http://velameweb.com.br/projetos-sistemas/telefonica-processum-2019/" target="_blank">
+  <a href="http://velameweb.com.br/projetos-sistemas/shopping-paralela-2012/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
   </a>
 </p>
@@ -28,20 +28,20 @@
     <li>Animations</li>
 </ul>
 
-<h3><img src="http://velameweb.com.br/git/config/images/primefaces-icon.png" alt="Primefaces ícone" height="18px" /> Primefaces <em>(<a href="https://github.com/tarcisovelame/curriculo/tree/master/primefaces" target="_blank">meu know-how</a>)</em></h3>
+<h3><img src="http://velameweb.com.br/git/config/images/wordpress-icon.png" alt="Wordpress ícone" height="18px" /> Wordpress <em>(<a href="https://github.com/tarcisovelame/curriculo/tree/master/wordpress" target="_blank">meu know-how</a>)</em></h3>
 <ul>
-    <li>Componentização</li>
+    <li>Criação do sistema personalizado</li>
+    <li>Uso de Posts personalizados (Custom posts)</li>
+    <li>Uso de Campos personalizados (Meta boxes)</li>
+    <li>Aplicação de profundas regras de negócio</li>
 </ul>
 
-<h2>Prints do projeto - 2019</h2>
+<h2>Prints do projeto - 2012</h2>
 
-<img src="http://velameweb.com.br/projetos-sistemas/telefonica-processum-2019/screenshot.jpg" alt="Screenshot do projeto">
-
-<p>Menu aberto</p>
-<img src="http://velameweb.com.br/projetos-sistemas/telefonica-processum-2019/screenshot-2.jpg" alt="Screenshot do projeto">
+<img src="http://velameweb.com.br/projetos-sistemas/shopping-paralela-2012/screenshot.jpg" alt="Screenshot do projeto">
 
 <p align="center">
-  <a href="http://velameweb.com.br/projetos-sistemas/telefonica-processum-2019/" target="_blank">
+  <a href="http://velameweb.com.br/projetos-sistemas/shopping-paralela-2012/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
   </a>
 </p>
