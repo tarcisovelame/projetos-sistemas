@@ -37,6 +37,9 @@
 
 <img src="http://velameweb.com.br/projetos-sistemas/telefonica-processum-2019/screenshot.jpg" alt="Screenshot do projeto">
 
+<p>Menu aberto</p>
+<img src="http://velameweb.com.br/projetos-sistemas/telefonica-processum-2019/screenshot-2.jpg" alt="Screenshot do projeto">
+
 <p align="center">
   <a href="http://velameweb.com.br/projetos-sistemas/telefonica-processum-2019/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
