@@ -1,6 +1,6 @@
 
 
-<img src="http://velameweb.com.br/git/config/images/monitor-with-margin.png" align="left" />
+<img src="http://velameweb.com.br/git/config/images/monitor-sistema-with-margin.png" align="left" />
 
 
 <h2>Telefônica Processum <em>(Sistema - 2019)</em></h2>
