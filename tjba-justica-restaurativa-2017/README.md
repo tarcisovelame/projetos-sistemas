@@ -3,9 +3,9 @@
 <img src="http://velameweb.com.br/git/config/images/monitor-sistema-with-margin.png" align="left" />
 
 
-<h2>Telefônica Processum <em>(Sistema - 2019)</em></h2>
+<h2>TJBA - Justiça restaurativa <em>(Sistema - 2017)</em></h2>
 
-<p>Projeto do sistema jurídico da Telefônica-Vivo, desenvolvido pela Indra Company</p>
+<p>Projeto desenvolvido para o Tribunal de Justiça do Estado da Bahia, em parceria com a Solutis</p>
 
 <p>
   <a href="http://velameweb.com.br/projetos-sistemas/tjba-justica-restaurativa-2017/" target="_blank">
@@ -28,12 +28,7 @@
     <li>Animations</li>
 </ul>
 
-<h3><img src="http://velameweb.com.br/git/config/images/primefaces-icon.png" alt="Primefaces ícone" height="18px" /> Primefaces <em>(<a href="https://github.com/tarcisovelame/curriculo/tree/master/primefaces" target="_blank">meu know-how</a>)</em></h3>
-<ul>
-    <li>Componentização</li>
-</ul>
-
-<h2>Prints do projeto - 2019</h2>
+<h2>Prints do projeto - 2017</h2>
 
 <img src="http://velameweb.com.br/projetos-sistemas/tjba-justica-restaurativa-2017/screenshot.jpg" alt="Screenshot do projeto">
 
